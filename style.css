@@ -69,3 +69,13 @@
 .container__caixa {
      margin: 0 6em;
     }
+
+.image{
+       width: 500px;
+       height: 500px;
+    }
+
+.img, h2{
+    display: inline-block;
+    vertical-align:top ;
+}
